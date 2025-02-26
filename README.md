@@ -121,10 +121,3 @@ You can also find the classification reports for all binary classification combi
 ## Conclusion
 
 This project demonstrates that integrating quantum computing elements into traditional CNN architectures can provide performance improvements for certain classification tasks, suggesting promising avenues for further exploration of quantum-enhanced machine learning.
-
-## Future Work
-
-- Expanding to multi-class classification
-- Testing more complex quantum circuits
-- Exploring variational quantum algorithms
-- Investigating quantum advantage on larger datasets
