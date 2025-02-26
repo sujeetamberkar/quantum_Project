@@ -1,0 +1,23 @@
+# Core PyTorch and vision libraries
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Qiskit for quantum computing
+qiskit>=0.43.0
+qiskit-machine-learning>=0.6.0
+
+# Visualization and model summary
+torchinfo>=1.8.0
+
+# Machine learning utilities
+scikit-learn>=1.2.0
+
+# For potential data handling
+numpy>=1.22.0
+pandas>=2.0.0
+
+# If you need GPU support, uncomment relevant line:
+# For NVIDIA GPUs:
+# cuda-python
+# For Apple Silicon:
+# torch-mps-is-available
